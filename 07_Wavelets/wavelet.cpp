@@ -61,7 +61,7 @@ int main()
         input[p[indx_sig]] = 0;
     }
 
-    gsl_wavelet_transform_inverse(w, input, 1, DATA_SIZE, work);
+    gsl_wavelet_transform_inverse (w, input, 1, DATA_SIZE, work);
 
     cout << "Processed: " << endl;
     print(input);
