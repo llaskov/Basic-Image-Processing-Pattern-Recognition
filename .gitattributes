@@ -1,0 +1,4 @@
+*.cpp linguist-detectable=true
+*.o linguist-detectable=flase
+*.pro linguist-detectable=flase
+Makefile linguist-detectable=flase
