@@ -1,3 +1,4 @@
+*.* linguist-language=C++
 *.cpp linguist-detectable=true
 *.o linguist-detectable=flase
 *.pro linguist-detectable=flase
